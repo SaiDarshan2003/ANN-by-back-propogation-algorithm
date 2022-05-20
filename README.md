@@ -92,7 +92,7 @@ print("Predicted Output:\n"+str(output))
 ```
 
 ## Output:
-![ANN by back propagation algorithm](Screenshot 2022-05-20 114023.png)
+![inp](1.png)
 
 
 ## Result:
